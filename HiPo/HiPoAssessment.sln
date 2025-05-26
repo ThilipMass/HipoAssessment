@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIPO.Api", "HIPO.Api\HIPO.Api.csproj", "{CAF5B5B8-8F8B-43A1-913B-6F6407856202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIPO.Core", "HIPO.Core\HIPO.Core.csproj", "{D3EF4A8E-4836-480B-ABB6-A2A6044D804E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIPO.Infrastructure", "HIPO.Infrastructure\HIPO.Infrastructure.csproj", "{99FB953E-BC14-405F-BFF4-2873A25A0842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF5B5B8-8F8B-43A1-913B-6F6407856202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF5B5B8-8F8B-43A1-913B-6F6407856202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF5B5B8-8F8B-43A1-913B-6F6407856202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF5B5B8-8F8B-43A1-913B-6F6407856202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3EF4A8E-4836-480B-ABB6-A2A6044D804E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3EF4A8E-4836-480B-ABB6-A2A6044D804E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3EF4A8E-4836-480B-ABB6-A2A6044D804E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3EF4A8E-4836-480B-ABB6-A2A6044D804E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99FB953E-BC14-405F-BFF4-2873A25A0842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FB953E-BC14-405F-BFF4-2873A25A0842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FB953E-BC14-405F-BFF4-2873A25A0842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FB953E-BC14-405F-BFF4-2873A25A0842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
